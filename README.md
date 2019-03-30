@@ -26,7 +26,7 @@ This app was largely based on an existing example with the writing the functiona
 
 Here are some images of the app:
 
-![home](https://github.com/mattsainson/bamazon/blob/master/resources/home.png)
-![survey](https://github.com/mattsainson/bamazon/blob/master/resources/survey.png)
-![entry](https://github.com/mattsainson/bamazon/blob/master/resources/entry.png)
-![match](https://github.com/mattsainson/bamazon/blob/master/resources/match.png)
+![home](https://github.com/mattsainson/friendfinder/blob/master/resources/1-home.png)
+![survey](https://github.com/mattsainson/friendfinder/blob/master/resources/2-survey.png)
+![entry](https://github.com/mattsainson/friendfinder/blob/master/resources/3-entry.png)
+![match](https://github.com/mattsainson/friendfinder/blob/master/resources/4-match.png)
